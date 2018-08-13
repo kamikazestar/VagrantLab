@@ -61,5 +61,5 @@ I'm using standard GitHub workflow. For the versions available, see the [tags on
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md)
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/kamikazestar/VagrantLab/LICENSE.md)
 file for details.
