@@ -1,0 +1,17 @@
+# Host declaration for VagrantLab project
+[ubuntu]
+ubuntu1804 ansible_host=172.21.0.10
+ubuntu1604 ansible_host=172.21.0.11
+[debian]
+debian9 ansible_host=172.21.0.20
+debian8 ansible_host=172.21.0.21
+[centos]
+centos7 ansible_host=172.21.0.30
+centos6 ansible_host=172.21.0.31
+
+[debian_based:children]
+ubuntu
+debian
+
+[ubuntu:vars]
+ansible_python_interpreter=/usr/bin/python3
