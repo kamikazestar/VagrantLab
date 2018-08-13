@@ -57,10 +57,7 @@ I'm using standard GitHub workflow. For the versions available, see the [tags on
 
 ## Authors
 
-* **Marcin Slabonski** - *Initial work* - [PurpleBooth](https://github.com/kamikazestar)
-
-See also the list of [contributors](https://github.com/kamikazestar/VagrantLab)
-who participated in this project.
+* **Marcin Slabonski** - *Initial work* - [kamikazestar](https://github.com/kamikazestar)
 
 ## License
 
